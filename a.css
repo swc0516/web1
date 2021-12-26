@@ -1,0 +1,33 @@
+.today{
+    color:blue;
+
+}
+
+
+.bb{
+    color:blueviolet
+
+}
+
+
+
+.cc{
+    color:red
+}
+
+
+/* .p1{
+    color:pink
+
+} */
+
+.qq{
+    background-color: #f473f81c;
+}
+
+
+.img1:hover{
+    transition: 0.5s;
+    transform:scale(0.95);
+
+}
